@@ -1,5 +1,5 @@
-# MultiIcon
-![alt text](https://raw.githubusercontent.com/hazlema/MultiIcon/master/IconWrite.png "Screenshot")<br>
+# IconBuilder
+![alt text](https://raw.githubusercontent.com/hazlema/IconBuilder/master/IconWrite.png "Screenshot")<br>
 Display or Convert 32bit  icons.<br>
 
 View Mode<br>
